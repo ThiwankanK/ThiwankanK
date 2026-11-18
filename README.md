@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Software Engineer · Automation Specialist** — Sri Lanka 🇱🇰
 
-[![Email](https://img.shields.io/badge/Email-qyntrixitsolutions%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qyntrixitsolutions@gmail.com)
+[![Email](https://img.shields.io/badge/Email-qyntrixitsolutions%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiwankanayanakumara2020@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-thiwankanayanak-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thiwankanayanak)
 [![Facebook](https://img.shields.io/badge/Qyntrix_IT_Solutions-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/QyntrixItSolutions)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+94_78_436_6058-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94784366058)
